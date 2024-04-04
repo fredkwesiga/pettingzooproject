@@ -1,0 +1,14 @@
+/Users/fred/Desktop/Learning CSHARP/April4 - 2/bin/Debug/net8.0/April4 - 2
+/Users/fred/Desktop/Learning CSHARP/April4 - 2/bin/Debug/net8.0/April4 - 2.deps.json
+/Users/fred/Desktop/Learning CSHARP/April4 - 2/bin/Debug/net8.0/April4 - 2.runtimeconfig.json
+/Users/fred/Desktop/Learning CSHARP/April4 - 2/bin/Debug/net8.0/April4 - 2.dll
+/Users/fred/Desktop/Learning CSHARP/April4 - 2/bin/Debug/net8.0/April4 - 2.pdb
+/Users/fred/Desktop/Learning CSHARP/April4 - 2/obj/Debug/net8.0/April4 - 2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/fred/Desktop/Learning CSHARP/April4 - 2/obj/Debug/net8.0/April4 - 2.AssemblyInfoInputs.cache
+/Users/fred/Desktop/Learning CSHARP/April4 - 2/obj/Debug/net8.0/April4 - 2.AssemblyInfo.cs
+/Users/fred/Desktop/Learning CSHARP/April4 - 2/obj/Debug/net8.0/April4 - 2.csproj.CoreCompileInputs.cache
+/Users/fred/Desktop/Learning CSHARP/April4 - 2/obj/Debug/net8.0/April4 - 2.dll
+/Users/fred/Desktop/Learning CSHARP/April4 - 2/obj/Debug/net8.0/refint/April4 - 2.dll
+/Users/fred/Desktop/Learning CSHARP/April4 - 2/obj/Debug/net8.0/April4 - 2.pdb
+/Users/fred/Desktop/Learning CSHARP/April4 - 2/obj/Debug/net8.0/April4 - 2.genruntimeconfig.cache
+/Users/fred/Desktop/Learning CSHARP/April4 - 2/obj/Debug/net8.0/ref/April4 - 2.dll
